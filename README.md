@@ -69,10 +69,21 @@
     </div>
 </section>
     <section id="contact">
-        <!-- Add a contact form or contact information here -->
-    </section>
+    <div class="contact-container">
+        <h2>Contact Me</h2>
+        <p>If you have any questions or need IT consulting services, feel free to get in touch with me. I'm here to help!</p>
+        <ul>
+            <li>
+                <strong>Email:</strong> <a href="mailto:jalextechnology@gmail.com">jalextechnology@gmail.com</a>
+            </li>
+            <li>
+                <strong>Phone:</strong> <a href="tel:+642041197770">+64 204 119 7770</a>
+            </li>
+        </ul>
+    </div>
+</section>
     <footer>
-        <p>&copy; 2023 Your IT Consulting</p>
+        <p>&copy; 2023 Jalex Technology</p>
     </footer>
     <script src="script.js"></script>
 </body>
