@@ -2,13 +2,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your IT Consulting</title>
+    <title>Jalex Technology</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
     <img src="1658193955003.jpg" alt="Alex le Roux - IT Consultant" class="profile-picture">
-    <h1>Welcome to Your IT Consulting</h1>
+    <h1>Welcome to Jalex Technology</h1>
     <p>Your Partner in Technology Solutions</p>
 </header>
     <nav>
