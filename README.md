@@ -7,9 +7,10 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Your IT Consulting</h1>
-        <p>Your Partner in Technology Solutions</p>
-    </header>
+    <img src="1658193955003.jpg" alt="Alex le Roux - IT Consultant" class="profile-picture">
+    <h1>Welcome to Your IT Consulting</h1>
+    <p>Your Partner in Technology Solutions</p>
+</header>
     <nav>
         <ul>
             <li><a href="#about">About Us</a></li>
