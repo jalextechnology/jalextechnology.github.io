@@ -46,4 +46,14 @@ footer {
     color: white;
 }
 
-/* Add animations or other custom styles as needed */
+/* Add this to your existing CSS file */
+.profile-picture {
+    display: block;
+    margin: 0 auto 20px; /* Center the image and add some space below it */
+    border-radius: 50%; /* Rounded profile picture */
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    object-fit: cover; /* Maintain the aspect ratio while covering the container */
+    border: 3px solid #007BFF; /* Add a border with your accent color */
+}
+
