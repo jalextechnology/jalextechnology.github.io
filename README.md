@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 </head>
 <body>
     <header>
-        <img src="1658193955003.jpg" alt="Alex le Roux - IT Consultant" class="profile-picture">
+        <img src="profile-picture.jpg" alt="Alex le Roux - IT Consultant" class="profile-picture">
         <h1>Alex le Roux</h1>
         <p>Your Partner in Technology Solutions</p>
     </header>
@@ -73,8 +74,13 @@
         </div>
     </section>
     <footer>
+        <div class="social-icons">
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-linkedin"></i></a>
+            <a href="#"><i class="fa fa-instagram"></i></a>
+        </div>
         <p>&copy; 2023 Jalex Technology</p>
     </footer>
-    <script src="script.js"></script>
 </body>
 </html>
