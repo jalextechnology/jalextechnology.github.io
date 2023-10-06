@@ -19,7 +19,7 @@ header {
     padding: 80px 0;
 }
 
-.profile-picture {
+.profile-picture-container {
     display: block;
     margin: 0 auto 20px;
     border-radius: 50%;
@@ -27,6 +27,9 @@ header {
     height: 150px;
     object-fit: cover;
     border: 3px solid #007BFF;
+    background-image: url('profile-background.jpg'); /* Add the path to your background image */
+    background-size: cover;
+    background-position: center;
 }
 
 header h1 {
