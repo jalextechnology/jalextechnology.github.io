@@ -9,7 +9,6 @@
 <body>
     <header>
         <img src="1658193955003.jpg" alt="Alex le Roux - IT Consultant" class="profile-picture">
-        <h1>Welcome to Jalex Technology</h1>
         <p>Your Partner in Technology Solutions</p>
     </header>
     <nav>
