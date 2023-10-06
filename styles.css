@@ -22,14 +22,22 @@ header {
     background-position: center;
 }
 
-.profile-picture-container {
-    display: block;
-    margin: 0 auto 20px;
-    border-radius: 50%;
+.profile-picture-circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 150px;
     height: 150px;
-    object-fit: cover;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto 20px;
     border: 3px solid #007BFF;
+}
+
+.profile-picture {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 header h1 {
@@ -148,19 +156,3 @@ footer {
         font-size: 24px;
     }
 
-    section p {
-        font-size: 14px;
-    }
-
-    .contact-container ul li {
-        font-size: 14px;
-    }
-
-    .social-icons {
-        margin-top: 10px;
-    }
-
-    .social-icon {
-        font-size: 20px;
-    }
-}
