@@ -98,9 +98,11 @@ section p {
     color: #fff; /* White link color */
 }
 
-.contact-container ul li strong {
+/* Target the anchor elements within .contact-container ul li */
+.contact-container ul li a {
+    color: #fff; /* White link color */
+    text-decoration: none; /* Remove underline */
     font-weight: bold;
-    margin-right: 10px;
 }
 
 /* Social Icons Styles */
