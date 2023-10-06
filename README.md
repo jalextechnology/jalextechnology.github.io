@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <img src="profile-picture.jpg" alt="Alex le Roux - IT Consultant" class="profile-picture">
+        <img src="profile-pic.jpg" alt="Alex le Roux - IT Consultant" class="profile-picture">
         <h1>Alex le Roux</h1>
         <p>Your Partner in Technology Solutions</p>
     </header>
