@@ -36,7 +36,7 @@ header {
 
 .profile-picture {
     width: 100%;
-    height: auto;
+    height: 100%;
     object-fit: cover;
 }
 
@@ -155,4 +155,4 @@ footer {
     section h2 {
         font-size: 24px;
     }
-
+}
