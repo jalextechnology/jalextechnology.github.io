@@ -23,9 +23,6 @@ header {
 }
 
 .profile-picture-circle {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -34,10 +31,12 @@ header {
     border: 3px solid #007BFF;
 }
 
+/* Apply the profile picture within the circular container */
 .profile-picture {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    border-radius: 50%;
 }
 
 header h1 {
